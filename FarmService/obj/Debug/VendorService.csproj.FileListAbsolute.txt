@@ -1,0 +1,402 @@
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csc.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csc.exe.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csc.rsp
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csi.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csi.rsp
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.AppContext.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.Collections.Immutable.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\vbc.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\vbc.exe.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\vbc.rsp
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Antlr3.Runtime.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Microsoft.Web.Infrastructure.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Newtonsoft.Json.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Net.Http.Formatting.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Cors.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Helpers.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.Cors.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.WebHost.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Mvc.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Optimization.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Razor.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\WebGrease.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.Cors.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Newtonsoft.Json.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Net.Http.Formatting.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Helpers.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.WebHost.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Mvc.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Optimization.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Razor.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Antlr3.Runtime.pdb
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Debug\VendorService.csproj.AssemblyReference.cache
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CoreCompileInputs.cache
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CopyComplete
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\VendorService.dll.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\VendorService.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\VendorService.pdb
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Debug\VendorService.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Debug\VendorService.pdb
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\VendorService.dll.config
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\VendorService.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\VendorService.pdb
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\System.Collections.Immutable.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\Antlr3.Runtime.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\Microsoft.Web.Infrastructure.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\Newtonsoft.Json.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Net.Http.Formatting.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Cors.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Helpers.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Http.Cors.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Http.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Http.WebHost.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Mvc.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Optimization.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Razor.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.WebPages.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\WebGrease.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Http.Cors.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\Newtonsoft.Json.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Net.Http.Formatting.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Helpers.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Http.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Http.WebHost.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Mvc.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Optimization.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.Razor.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.WebPages.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\Antlr3.Runtime.pdb
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\obj\Debug\VendorService.csproj.AssemblyReference.cache
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CoreCompileInputs.cache
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CopyComplete
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\obj\Debug\VendorService.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\obj\Debug\VendorService.pdb
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\csc.exe
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\csc.exe.config
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\csc.rsp
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\csi.exe
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\csi.rsp
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\System.AppContext.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\vbc.exe
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\vbc.exe.config
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\vbc.rsp
+D:\Zasa Solution\VendorPortal Online Source\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe.config
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\VendorService.dll.config
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\VendorService.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\VendorService.pdb
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csc.exe
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csc.exe.config
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csc.rsp
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csi.exe
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csi.rsp
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.AppContext.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.Collections.Immutable.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\vbc.exe
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\vbc.exe.config
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\vbc.rsp
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe.config
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Antlr3.Runtime.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Microsoft.Web.Infrastructure.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Newtonsoft.Json.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Net.Http.Formatting.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Cors.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Helpers.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.Cors.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.WebHost.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Mvc.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Optimization.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Razor.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\WebGrease.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.Cors.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Newtonsoft.Json.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Net.Http.Formatting.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Helpers.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.WebHost.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Mvc.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Optimization.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Razor.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Antlr3.Runtime.pdb
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.csproj.AssemblyReference.cache
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CoreCompileInputs.cache
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CopyComplete
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.dll
+F:\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.pdb
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\VendorService.dll.config
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\VendorService.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\VendorService.pdb
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csc.exe
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csc.exe.config
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csc.rsp
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csi.exe
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\csi.rsp
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.AppContext.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.Collections.Immutable.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\vbc.exe
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\vbc.exe.config
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\vbc.rsp
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe.config
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Antlr3.Runtime.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Microsoft.Web.Infrastructure.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Newtonsoft.Json.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Net.Http.Formatting.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Cors.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Helpers.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.Cors.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.WebHost.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Mvc.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Optimization.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Razor.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\WebGrease.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.Cors.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Newtonsoft.Json.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Net.Http.Formatting.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Helpers.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Http.WebHost.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Mvc.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Optimization.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.Razor.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Antlr3.Runtime.pdb
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.csproj.AssemblyReference.cache
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CoreCompileInputs.cache
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.csproj.CopyComplete
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.dll
+E:\VendorPortal 12-9-2022\VendorPortal 12-9-2022\VendorPortal\VendorService\obj\Debug\VendorService.pdb
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\VendorService.dll.config
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\VendorService.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\VendorService.pdb
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\csc.exe
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\csc.exe.config
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\csc.rsp
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\csi.exe
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\csi.rsp
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\System.AppContext.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\System.Collections.Immutable.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\System.IO.FileSystem.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\vbc.exe
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\vbc.exe.config
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\vbc.rsp
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\VBCSCompiler.exe
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\roslyn\VBCSCompiler.exe.config
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\Antlr3.Runtime.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\Microsoft.Web.Infrastructure.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\Newtonsoft.Json.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Net.Http.Formatting.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Cors.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Helpers.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Http.Cors.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Http.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Http.WebHost.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Mvc.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Optimization.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Razor.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.WebPages.Deployment.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.WebPages.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.WebPages.Razor.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\WebGrease.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Http.Cors.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\Newtonsoft.Json.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Net.Http.Formatting.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Helpers.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Http.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Http.WebHost.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Mvc.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Optimization.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.Razor.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.WebPages.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.WebPages.Deployment.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\System.Web.WebPages.Razor.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\Antlr3.Runtime.pdb
+E:\ZASA Projects\VendorPortalNew\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ZASA Projects\VendorPortalNew\VendorService\obj\Debug\VendorService.csproj.AssemblyReference.cache
+E:\ZASA Projects\VendorPortalNew\VendorService\obj\Debug\VendorService.csproj.CoreCompileInputs.cache
+E:\ZASA Projects\VendorPortalNew\VendorService\obj\Debug\VendorService.csproj.CopyComplete
+E:\ZASA Projects\VendorPortalNew\VendorService\obj\Debug\VendorService.dll
+E:\ZASA Projects\VendorPortalNew\VendorService\obj\Debug\VendorService.pdb
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\VendorService.dll.config
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\VendorService.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\VendorService.pdb
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\csc.exe
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\csc.exe.config
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\csc.rsp
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\csi.exe
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\csi.rsp
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\System.AppContext.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\System.Collections.Immutable.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\System.IO.FileSystem.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\vbc.exe
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\vbc.exe.config
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\vbc.rsp
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\VBCSCompiler.exe
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\roslyn\VBCSCompiler.exe.config
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\Antlr3.Runtime.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\Microsoft.Web.Infrastructure.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\Newtonsoft.Json.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Net.Http.Formatting.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Cors.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Helpers.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Http.Cors.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Http.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Http.WebHost.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Mvc.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Optimization.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Razor.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.WebPages.Deployment.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.WebPages.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.WebPages.Razor.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\WebGrease.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Http.Cors.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\Newtonsoft.Json.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Net.Http.Formatting.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Helpers.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Http.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Http.WebHost.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Mvc.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Optimization.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.Razor.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.WebPages.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.WebPages.Deployment.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\System.Web.WebPages.Razor.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\Antlr3.Runtime.pdb
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\obj\Debug\VendorService.csproj.AssemblyReference.cache
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\obj\Debug\VendorService.csproj.CoreCompileInputs.cache
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\obj\Debug\VendorService.csproj.CopyComplete
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\obj\Debug\VendorService.dll
+E:\ZASA ProjectsCRM\VendorPortalNew\VendorService\obj\Debug\VendorService.pdb

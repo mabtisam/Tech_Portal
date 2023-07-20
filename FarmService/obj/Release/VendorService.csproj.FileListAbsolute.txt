@@ -1,0 +1,134 @@
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csc.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csc.exe.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csc.rsp
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csi.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\csi.rsp
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.AppContext.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.Collections.Immutable.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\vbc.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\vbc.exe.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\vbc.rsp
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\roslyn\VBCSCompiler.exe.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Antlr3.Runtime.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Microsoft.Web.Infrastructure.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Newtonsoft.Json.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Net.Http.Formatting.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Cors.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Helpers.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.Cors.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.WebHost.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Mvc.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Optimization.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Razor.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\WebGrease.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.Cors.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Newtonsoft.Json.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Net.Http.Formatting.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Helpers.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Http.WebHost.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Mvc.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Optimization.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.Razor.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Deployment.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\System.Web.WebPages.Razor.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Antlr3.Runtime.pdb
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Release\VendorService.csproj.CoreCompileInputs.cache
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Release\VendorService.csproj.CopyComplete
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Release\VendorService.csproj.AssemblyReference.cache
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\VendorService.dll.config
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\VendorService.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\bin\VendorService.pdb
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Release\VendorService.dll
+E:\Tech Geeks Projects\VendorPortal\VendorService\obj\Release\VendorService.pdb
+E:\VendorPortalNew\VendorService\bin\VendorService.dll.config
+E:\VendorPortalNew\VendorService\bin\VendorService.dll
+E:\VendorPortalNew\VendorService\bin\VendorService.pdb
+E:\VendorPortalNew\VendorService\bin\roslyn\csc.exe
+E:\VendorPortalNew\VendorService\bin\roslyn\csc.exe.config
+E:\VendorPortalNew\VendorService\bin\roslyn\csc.rsp
+E:\VendorPortalNew\VendorService\bin\roslyn\csi.exe
+E:\VendorPortalNew\VendorService\bin\roslyn\csi.rsp
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VendorPortalNew\VendorService\bin\roslyn\System.AppContext.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\System.Collections.Immutable.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\System.IO.FileSystem.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\System.Reflection.Metadata.dll
+E:\VendorPortalNew\VendorService\bin\roslyn\vbc.exe
+E:\VendorPortalNew\VendorService\bin\roslyn\vbc.exe.config
+E:\VendorPortalNew\VendorService\bin\roslyn\vbc.rsp
+E:\VendorPortalNew\VendorService\bin\roslyn\VBCSCompiler.exe
+E:\VendorPortalNew\VendorService\bin\roslyn\VBCSCompiler.exe.config
+E:\VendorPortalNew\VendorService\bin\Antlr3.Runtime.dll
+E:\VendorPortalNew\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VendorPortalNew\VendorService\bin\Microsoft.Web.Infrastructure.dll
+E:\VendorPortalNew\VendorService\bin\Newtonsoft.Json.dll
+E:\VendorPortalNew\VendorService\bin\System.Net.Http.Formatting.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Cors.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Helpers.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Http.Cors.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Http.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Http.WebHost.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Mvc.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Optimization.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Razor.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.WebPages.Deployment.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.WebPages.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.WebPages.Razor.dll
+E:\VendorPortalNew\VendorService\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\VendorPortalNew\VendorService\bin\WebGrease.dll
+E:\VendorPortalNew\VendorService\bin\System.Web.Http.Cors.xml
+E:\VendorPortalNew\VendorService\bin\Newtonsoft.Json.xml
+E:\VendorPortalNew\VendorService\bin\System.Net.Http.Formatting.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.Helpers.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.Http.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.Http.WebHost.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.Mvc.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.Optimization.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.Razor.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.WebPages.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.WebPages.Deployment.xml
+E:\VendorPortalNew\VendorService\bin\System.Web.WebPages.Razor.xml
+E:\VendorPortalNew\VendorService\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\VendorPortalNew\VendorService\bin\Antlr3.Runtime.pdb
+E:\VendorPortalNew\VendorService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VendorPortalNew\VendorService\obj\Release\VendorService.csproj.AssemblyReference.cache
+E:\VendorPortalNew\VendorService\obj\Release\VendorService.csproj.CoreCompileInputs.cache
+E:\VendorPortalNew\VendorService\obj\Release\VendorService.csproj.CopyComplete
+E:\VendorPortalNew\VendorService\obj\Release\VendorService.dll
+E:\VendorPortalNew\VendorService\obj\Release\VendorService.pdb

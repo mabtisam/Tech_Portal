@@ -1,0 +1,259 @@
+﻿@model List<TechnicalService.Models.Employee_Model>
+@{
+    ViewBag.Title = "EmployeeList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br />
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header" style="background-color:#030a52;padding-top:16px; color:white">
+                <h3 class="card-title">Employee List</h3>
+                <a href="#" data-toggle="modal" data-target="#AddRecord" class="btn btn-success btn-sm  float-right"><i class="fa fa-plus"></i>&nbsp; Add New</a>
+            </div>
+            <div class="card-body">
+                <table id="datatable" class="display table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Employee ID</th>
+                            <th scope="col">Photo</th>
+                            <th scope="col">Employee Name</th>
+                            <th scope="col">Department Name</th>
+                            <th scope="col">Designation Name</th>
+                            <th scope="col">NIC</th>
+                            <th scope="col">Salary</th>
+                            <th scope="col">Status</th>
+                            <th scope="col">Action</th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+
+                        @if (Model != null)
+                        {
+                            foreach (var item in Model)
+                            {
+                        <tr>
+                            <td>@item.Employee_Id</td>
+                            <td>
+                                <img alt="Error" class="bookCover" itemprop="image" height="100" width="100"
+                                     src="~/assets/Images/@item.Employee_Pic" />
+                            </td>
+                            <td>@item.Employee_Name</td>
+                            <td>@item.Department_Id</td>
+                            <td>@item.Designation_Id</td>
+                            <td>@item.CNIC</td>
+                            <td>@item.Employee_Salary</td>
+                            <td>@item.Is_Active</td>
+                            <td>
+                                <button type="button" data-toggle="modal" data-target="#AddRecord" onclick="Edit('@item.Employee_Id',5)" class="btn btn-info btn-sm"><i class="fa fa-edit"></i>&nbsp;</button>
+
+                                <a href="~/Admin/DelVaccinationType?Employee_Id=@item.Employee_Id" class="btn btn-info btn-sm" onclick="return confirm('Are you sure to delete this record from database?')">DEL</a>
+
+
+                            </td>
+                        </tr>
+                            }
+                        }
+                        else
+                        {
+
+                        }
+
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th scope="col">Employee ID</th>
+                            <th scope="col">Photo</th>
+                            <th scope="col">Employee Name</th>
+                            <th scope="col">Department Name</th>
+                            <th scope="col">Designation Name</th>
+                            <th scope="col">NIC</th>
+                            <th scope="col">Salary</th>
+                            <th scope="col">Status</th>
+                            <th scope="col">Action</th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+@*---------------------- add popup -------------------*@
+<div class="modal fade" id="AddRecord" aria-hidden="true" data-backdrop
+="static" data-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <form action="~/Admin/AUDEmployee" method="post" enctype="multipart/form-data">
+                <div class="modal-header" style="background-color: #030a52; color: white">
+                    <h3 class="modal-title">Add / Update  Employee</h3>
+                    <input id="Coperation" type="number" name="Coperation" value="2" class="form-control" hidden />
+                </div>
+                <div class="modal-body ">
+                    <div class="row" style="margin-top:20px;">
+                        <div class="form-group  col-md-6">
+                            <label for="Employee_Id">Employee ID</label>
+                            <input id="Employee_Id" type="number" name="Employee Id" class="form-control" />
+                        </div>
+                        <div class="form-group  col-md-6">
+                            <label for="Employee_Name">Employee Name</label>
+                            <input id="Employee_Name" type="text" name="Employee_Name" class="form-control" placeholder="Employee Name " required />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="form-group  col-md-8">
+                            <label for="Employee_Pic">Employee Picture</label>
+                            <input type="file" placeholder="choose your book image" name="Employee_Pic" id="Employee_Pic" />
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="form-group  col-md-6">
+                            <label for="Department_Id"> Department Id</label>
+                            <select id="Department_Id" type="number" name="Department_Id" class="form-control">
+                                <option value="">Select Department</option>
+                            </select>
+                          
+                        </div>
+                        <div class="form-group  col-md-6">
+                            <label for="Designation_Id"> Designation Id</label>
+                            <select id="Designation_Id" type="text" name="Designation_Id" class="form-control">
+                                <option value="">Select Designation</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="form-group  col-md-3">
+                            <label for="CNIC"> CNIC</label>
+                            <input id="CNIC" type="number" name="CNIC" class="form-control" required />
+                        </div>
+                        <div class="form-group  col-md-3">
+                            <label for="Employee_Salary"> Salary</label>
+                            <input id="Employee_Salary" type="number" name="Employee_Salary" class="form-control" required />
+                        </div>
+                        <div class="form-group  col-md-6">
+                            <label for="Is_Active">Status</label>
+                            <select class="form-control" id="Is_Active" name="Is_Active">
+                                <option value="0">Active </option>
+                                <option value="1">InActive </option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button type="submit" id="SubmitRecord" class="btn btn-info form-control" style="margin-top:5px;">Submit</button>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" class="btn btn-info form-control" data-dismiss="modal" style="margin-top:5px;">Close</button>
+                        </div>
+                    </div>
+                    <br />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+
+
+<script>
+    $(document).ready(function () {
+
+        $.ajax({
+            type: "GET",
+            url: "/List/DesignationList",
+            data: {},
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+
+                var selectList = "";
+                $.each(data, function (ind, val) {
+
+                    selectList = "<option value='" + val.Designation_Id + "' >" + val.Designation_Name + "</option>"
+
+                    $("#Designation_Id").append(selectList);
+
+                });
+            },
+            error: function (err) {
+                console.log(err);
+            }
+        }); $.ajax({
+            type: "GET",
+            url: "/List/DepartmentList",
+            data: {},
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+
+                var selectList = "";
+                $.each(data, function (ind, val) {
+
+                    selectList = "<option value='" + val.Department_Id + "' >" + val.Department_Name + "</option>"
+
+                    $("#Department_Id").append(selectList);
+
+                });
+            },
+            error: function (err) {
+                console.log(err);
+            }
+        });
+    });
+
+
+    function Edit(Employee_Id, Coperation) {
+
+
+        $.ajax({
+            type: "GET",
+            url: "/Admin/GetDepartmentByID",
+            data: {
+                Employee_Id: Employee_Id,
+                Coperation: Coperation
+            },
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                $('#Coperation').val(3);
+                $('#Employee_Name').val(data.Employee_Name);
+                $('#Employee_Pic').val(data.Employee_Pic);
+                $('#Department_Id').val(data.Department_Id);
+                $('#Designation_Id').val(data.Designation_Id);
+
+
+                var statusselect = "";
+                $("#Is_Active").empty();
+                if (oldStatus == 1) {
+                    statusselect = "<option value='1' selected>Active</option> <option value='0'>InActive</option> ";
+                    $("#Is_Active").append(statusselect);
+                }
+                else if (oldstatus == 0) {
+                    statusselect = "<option value='1'>Active</option> <option selected value='0'>InActive</option>";
+                    $("#Is_Active").append(statusselect);
+                }
+
+
+
+
+                $('#CNIC').val(data.CNIC);
+                $('#Employee_Salary').val(data.Employee_Salary);
+
+
+            },
+            error: function (err) {
+                console.log(err);
+            }
+        });
+    }
+
+</script>
+

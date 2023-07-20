@@ -1,0 +1,145 @@
+﻿@model List<TechnicalService.Models.Designation_Model>
+
+@{
+    ViewBag.Title = "DesignationList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<br />
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-primary">
+            <div class="card-header" style="background-color:#030a52;padding-top:16px; color:white">
+                <h3 class="card-title">Designation List</h3>
+                <a href="#" data-toggle="modal" data-target="#AddRecord" class="btn btn-success btn-sm  float-right"><i class="fa fa-plus"></i>&nbsp; Add New</a>
+            </div>
+            <div class="card-body">
+                <table id="datatable" class="display table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Designation ID</th>
+                            <th scope="col">Designation Name</th>
+                            <th scope="col">Action</th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+
+                            @if (Model != null)
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.Designation_Id</td>
+                                        <td>@item.Designation_Name</td>
+                                        @*@if (item.Vaccination_Type_IsActive == 1)
+                                        {
+                                            <td>Active</td>
+                                        }
+                                        else
+                                        {
+                                            <td>In-Active</td>
+
+                                        }*@
+                                        <td>
+                                            <button type="button" data-toggle="modal" data-target="#AddRecord" onclick="Edit('@item.Designation_Id',5)" class="btn btn-info btn-sm"><i class="fa fa-edit"></i>&nbsp;</button>
+
+                                            <a href="~/Admin/DelVaccinationType?Designation_Id=@item.Designation_Id" class="btn btn-info btn-sm" onclick="return confirm('Are you sure to delete this record from database?')">DEL</a>
+
+
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+
+                            }
+
+                        </tbody>
+                    <tfoot>
+                        <tr>
+                            <th scope="col">Designation ID</th>
+                            <th scope="col">Designation Name</th>
+                            <th scope="col">Action</th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+
+@*---------------------- add popup -------------------*@
+<div class="modal fade" id="AddRecord" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <form action="~/Admin/AUDDesignation" method="post">
+                <div class="modal-header" style="background-color: #030a52; color: white">
+                    <h3 class="modal-title">Add / Update  Designation</h3>
+                    <input id="Coperation" type="number" name="Coperation" value="2" class="form-control" hidden />
+                </div>
+                <div class="modal-body ">
+                    <div class="row" style="margin-top:20px;">
+                        <div class="form-group  col-md-8">
+                            <label for="Designation_Id">Designation ID</label>
+                            <input id="Designation_Id" type="number" name="Designation_Id" class="form-control" />
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="form-group  col-md-8">
+                            <label for="Designation_Name">Department Name</label>
+                            <input id="Designation_Name" type="text" name="Designation_Name" class="form-control" placeholder="Designation Name " required />
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button type="submit" id="SubmitRecord" class="btn btn-info form-control" style="margin-top:5px;">Submit</button>
+                        </div>
+                        <div class="col-md-6">
+                            <button type="button" class="btn btn-info form-control" data-dismiss="modal" style="margin-top:5px;">Close</button>
+                        </div>
+                    </div>
+                    <br />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+
+
+<script>
+
+
+    function Edit(Designation_Id, Coperation) {
+
+
+        $.ajax({
+            type: "GET",
+            url: "/Admin/GetDesignationByID",
+            data: {
+                Designation_Id: Designation_Id,
+                Coperation: Coperation
+            },
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                $('#Coperation').val(3);
+                $('#Designation_Name').val(data.Designation_Name);
+
+            },
+            error: function (err) {
+                console.log(err);
+            }
+        });
+    }
+
+</script>
+
